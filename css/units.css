@@ -1,0 +1,60 @@
+html, body {
+	padding: 20px;
+	font-size:16px;
+}
+
+div {
+	background: #99ff99;
+	padding: 5px;
+	margin-bottom: 10px; 
+	white-space: nowrap;
+	width: 0;
+}
+
+#percentage {
+	width: 50%;
+}
+#pixel {
+	width: 400px;
+}
+#em-parent {
+	font-size: 25px;
+}
+
+#em {
+	width: 20em;
+}
+
+#rem {
+	width: 20rem;
+}
+
+#vw {
+	width: 60vw;
+}
+
+#vh {
+	width: 60vh;
+}
+
+#vmax {
+	width: 60vmax;
+}
+#vmin {
+	width: 60vmin;
+}
+#inch {
+	width: 4in;
+}
+#cm {
+	width: 20cm;
+}
+#mm {
+	width: 200mm;
+}
+#pt {
+	width: 120pt;
+}
+#ex {
+	width: 60ex;
+}
